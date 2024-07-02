@@ -1,2 +1,3 @@
 # C_Projects
-All the Small Projects in C will be stored in this repo. <b>Under Construction Edition.</b> 🚧 
+This repo will store all the basic codes and Small Projects in C. 
+<b>Under Construction Edition.</b> 🚧 
