@@ -2,12 +2,12 @@
 
 int  main()
 {
-    //  1. print using printf()
+    //  1. print using printf();
 
     printf("My Name is: Iftakhar. \n");
 
 
-    //  2. print using scanf()
+    //  2. print using scanf();
 
     char name[20];
     printf("Enter Name: ");
@@ -17,7 +17,7 @@ int  main()
     printf("Your Name is: %s", name);
 
 
-    //  3. using fgets()
+    //  3. using fgets();
     /*fgets() will take input from user and store in a string.
     open 3rd code in another fresh file it will not run in the same file. Added here because of the same topic.*/
 
